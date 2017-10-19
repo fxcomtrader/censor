@@ -21,5 +21,5 @@
 ### Сохранить изменения
 ### запустить из корневой директории робота командой: node censor
 
-##License
+## License
 censor is open-sourced software licensed under the MIT License.
