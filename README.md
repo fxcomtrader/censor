@@ -20,3 +20,6 @@
 * Раскомментировать строку 77 (убрать двойной слеш "//golos.broadcast.vote..." ---> "golos.broadcast.vote...")
 ### Сохранить изменения
 ### запустить из корневой директории робота командой: node censor
+
+##License
+censor is open-sourced software licensed under the MIT License.
